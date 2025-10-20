@@ -20,7 +20,7 @@ How microservices talk to each other.
 Managing data in a distributed setup.
 
  - Database per serice: Each microservice has its own database.
- - Saga Pttern: Ensures consistency across services.
+ - Saga Pattern: Ensures consistency across services.
  - CQRS (Command Query Responsibility Segregation):Separate read and write models.
    *Ex:- Simulate order + payment transactions with Saga.
 
